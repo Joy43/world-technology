@@ -1,6 +1,5 @@
 import {
   FaAd,
- 
   FaEnvelope,
   FaHome,
   FaList,
@@ -13,7 +12,7 @@ import { MdAddShoppingCart } from "react-icons/md";
 import { NavLink, Outlet } from "react-router-dom";
 
 import useAdmin from "../../Hooks/useAdmin";
-import useCart from './../../Hooks/usecart';
+import useCart from './../../Hooks/useCart';
 
 const Dashboard = () => {
   const [cart] = useCart();
