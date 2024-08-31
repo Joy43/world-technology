@@ -1,0 +1,12 @@
+/* Example CSS - Adjust as needed */
+.video-container {
+    height: 500px; /* Set your preferred height here */
+    width: 100%; /* Ensure the video container spans the entire width */
+  }
+  
+  /* Optional: Style the video player itself */
+  .video-container .video-react-video {
+    width: 70%; /* Ensure the video fills its container */
+    height: 70%; /* Ensure the video fills its container */
+  }
+  

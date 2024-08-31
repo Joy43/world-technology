@@ -1,0 +1,60 @@
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    max-width:1400px; /* Adjust as needed */
+    margin:  auto;
+  }
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+
+
+  
+
+
+  /* -----------Media querry ---------*/
+  @media (max-width: 640px) {
+    .text-small-device {
+      font-size: 14px;
+    }
+    .carousel-image {
+        max-width: 500px;
+        height: 340px;
+      }
+  }
+  
+  .carousel-image {
+    max-width: 900px;
+    height: 500px;
+  }
+  
+  .prev-button,
+  .next-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .prev-button {
+    left: 0;
+  }
+  
+  .next-button {
+    right: 0;
+  }
+  

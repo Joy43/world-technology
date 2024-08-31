@@ -1,0 +1,321 @@
+[
+    {
+        "name": "iPhone 13 mini",
+        "price": 899.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "category": "iPhone",
+        "stock": 100,
+        "rating": 4.5,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "price": 799.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+        "category": "iPhone",
+        "stock": 150,
+        "rating": 4.8,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 13 Pro Max",
+        "price": 709.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+        "category": "iPhone",
+        "stock": 120,
+        "rating": 4.7,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 13",
+        "price": 699.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+        "category": "iPhone",
+        "stock": 200,
+        "rating": 4.6,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 12 Pro Max",
+        "price": 599.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+        "category": "iPhone",
+        "stock": 180,
+        "rating": 4.9,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "price": 509.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+        "category": "iPhone",
+        "stock": 250,
+        "rating": 4.7,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 12",
+        "price": 499.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg",
+        "category": "iPhone",
+        "stock": 300,
+        "rating": 4.5,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone 12 mini",
+        "price": 409.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+        "category": "iPhone",
+        "stock": 150,
+        "rating": 4.6,
+        "brand": "Apple"
+    },
+    {
+        "name": "iPhone SE (2020)",
+        "price": 399.9,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg",
+        "category": "iPhone",
+        "stock": 200,
+        "rating": 4.3,
+        "brand": "Apple"
+    },
+    {
+        "name": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "image": "https://i.ibb.co/R9dDShd/garvit-3-Iyj-Beg-TXLA-unsplash.jpg"
+     },
+        {
+        "name": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "image": "https://i.ibb.co/Wp1P4wz/serwin365-0c-G-y-QAd-YIM-unsplash.jpg"
+        },
+        {
+      
+        "name": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "image": "https://i.ibb.co/b2yR8G7/roberto-nickson-h-Lg-Yt-X0r-Pgw-unsplash.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "name": "Galaxy S22 5G",
+            "price": 699,
+            "slug": "samsung_galaxy_s22_5g-11253",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-5g.jpg",
+            "category": "Smartphone",
+            "stock": 100,
+            "rating": 4.5
+          },
+          {
+            "brand": "Samsung",
+            "price": 469,
+            "name": "Galaxy Tab S8+",
+            "slug": "samsung_galaxy_tab_s8+-11342",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-plus.jpg",
+            "category": "Tablet",
+            "stock": 50,
+            "rating": 4.0
+          },
+          {
+            "brand": "Samsung",
+            "name": "Galaxy S22 5G",
+            "price": 999,
+            "slug": "samsung_galaxy_s22_5g-11253",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-5g.jpg",
+            "category": "Smartphone",
+            "stock": 100,
+            "rating": 4.5
+          },
+          {
+            "brand": "Samsung",
+            "name": "Galaxy Tab S8+",
+            "price": 699,
+            "slug": "samsung_galaxy_tab_s8+-11342",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-plus.jpg",
+            "category": "Tablet",
+            "stock": 50,
+            "rating": 4.0
+          },
+          {
+            "brand": "Samsung",
+            "name": "Galaxy Tab S8 Ultra",
+            "price": 799,
+            "slug": "samsung_galaxy_tab_s8_ultra-11274",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-ultra.jpg",
+            "category": "Tablet",
+            "stock": 80,
+            "rating": 4.2
+          },
+        {
+        "name": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 1749,
+        "discountPercentage": 11.02,
+        "rating": 4.57,
+        "stock": 83,
+        "brand": "Apple",
+        "category": "laptops",
+        "image": "https://i.ibb.co/Wy7qvF1/Apple-i-Pad-10th.png"
+        },
+        {
+        "name": "Sasung laptop",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "discountPercentage": 4.15,
+        "rating": 4.25,
+        "stock": 50,
+        "brand": "Samsung",
+        "category": "laptops",
+        "image": "https://i.ibb.co/m8bKQW6/dmitry-chernyshov-m-P7a-PSUm7a-E-unsplash.jpg"
+         },
+        {
+        "name": "Microsoft Surface Laptop 4",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "image": "https://i.ibb.co/cvyRJQ0/ales-nesetril-Im7l-Zjxe-Lhg-unsplash.jpg"
+       },
+        {
+        "name": "Infinix INBOOK",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey 1 Year Warranty",
+        "price": 1099,
+        "discountPercentage": 11.83,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "Infinix",
+        "category": "laptops",
+        "image": "https://i.ibb.co/fXP4Wtz/james-mckinven-tpu-Ao8g-Vs58-unsplash.jpg"
+        
+        },
+        {
+        "name": "HP Pavilion 15-DK1056WM",
+        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1099,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "image": "https://i.ibb.co/hVBj4yt/rich-tervet-q2-GNd-Fmhxx4-unsplash.jpg"
+        },
+       {
+            "name": "Flying Wooden Bird",
+            "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+            "price": 51,
+            "discountPercentage": 15.58,
+            "rating": 4.41,
+            "stock": 17,
+            "brand": "Flying Wooden",
+            "category": "home-decoration",
+            "image": "https://i.ibb.co/bLS06mN/cheryl-winn-boujnida-jh-Dof9-B6v-PY-unsplash.jpg"
+            },
+            {
+           "name": "3D Embellishment Art Lamp",
+            "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button cell operated (included)",
+            "price": 20,
+            "discountPercentage": 16.49,
+            "rating": 4.82,
+            "stock": 54,
+            "brand": "LED Lights",
+            "category": "home-decoration",
+            "image": "https://i.ibb.co/1b3RLXM/naomi-hebert-MP0bga-S-d1c-unsplash.jpg"
+             },
+            {
+            "name": "Handcraft Chinese style",
+            "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+            "price": 60,
+            "discountPercentage": 15.34,
+            "rating": 4.44,
+            "stock": 7,
+            "brand": "luxury palace",
+            "category": "home-decoration",
+            "image": "https://i.ibb.co/BjQkdYW/valery-fedotov-v-FWciisio5g-unsplash.jpg"
+            },
+            {
+                "name": "smart tv",
+                "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+                "price": 600,
+                "discountPercentage": 75.34,
+                "rating": 4.44,
+                "stock": 7,
+                "brand": "luxury palace",
+                "category": "tv",
+                "image": "https://i.ibb.co/j4RLJ3W/nicolas-j-leclercq-q-DLLP0y-P7-FU-unsplash.jpg"
+                },
+            {
+                "name": "smart sony tv",
+                "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+                "price": 6900,
+                "discountPercentage": 75.34,
+                "rating": 5.44,
+                "stock": 7,
+                "brand": "luxury palace",
+                "category": "tv",
+                "image": "https://i.ibb.co/BjwtkTz/web-developer.jpg"
+                },
+                {
+                    "name": "Wireless Noise-Cancelling Headphones",
+                    "description": "Advanced noise-cancelling technology for immersive audio, perfect for travel and work",
+                    "price": 199.99,
+                    "discountPercentage": 20,
+                    "rating": 4.7,
+                    "stock": 15,
+                    "brand": "SoundScape",
+                    "category": "headphones",
+                    "image": "https://i.ibb.co/Dk646Vb/yarenci-hdz-Tt-Ih-Vp-Yo-M-unsplash.jpg"
+                  },
+                  {
+                    "name": "Sports Bluetooth Earphones",
+                    "description": "Sweatproof and comfortable earphones designed for active lifestyles",
+                    "price": 79.99,
+                    "discountPercentage": 15,
+                    "rating": 4.2,
+                    "stock": 30,
+                    "brand": "FitBeat",
+                    "category": "earphones",
+                    "image": "https://i.ibb.co/yY2xpxb/fausto-sandoval-w5m3-PIGvkq-I-unsplash.jpg"
+                  },
+                  {
+                    "name": "Gaming Headset with Surround Sound",
+                    "description": "Immerse yourself in gaming with high-quality surround sound and a comfortable fit",
+                    "price": 149.99,
+                    "discountPercentage": 12,
+                    "rating": 4.8,
+                    "stock": 20,
+                    "brand": "GamerTech",
+                    "category": "headphones",
+                    "image": "https://i.ibb.co/7XKYVRr/ervo-rocks-Zam8-Tv-Eg-N5o-unsplash.jpg"
+                  }
+            ]
+
