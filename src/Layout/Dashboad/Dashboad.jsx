@@ -12,10 +12,10 @@ import { MdAddShoppingCart } from "react-icons/md";
 import { NavLink, Outlet } from "react-router-dom";
 
 import useAdmin from "../../Hooks/useAdmin";
-import useCart from './../../Hooks/useCart';
+
 
 const Dashboard = () => {
-  const [cart] = useCart();
+ 
   const [isAdmin] = useAdmin();
 
   return (
@@ -81,7 +81,7 @@ const Dashboard = () => {
                   className="flex items-center space-x-2 hover:bg-purple-800 p-2 rounded"
                 >
                   <FaShoppingCart />
-                  <span>My Cart ({cart.length})</span>
+                 
                 </NavLink>
               </li>
               <li className="shadow-lg shadow-slate-300 text-white">
